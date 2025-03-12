@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)(https://t.me/after02) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manukhovderzhavin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egormard13@gmail.com) 
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/after02) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manukhovderzhavin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egormard13@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
